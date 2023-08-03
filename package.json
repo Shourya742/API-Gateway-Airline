@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npx nodemon src/index.js"
   },
-  "author": "Sanket",
+  "author": "Shourya",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
